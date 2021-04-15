@@ -42,7 +42,6 @@ header h1 {
 }
 
 nav {
-    position: fixed;
     float: right; 
     padding: 75px 25px;
 }
